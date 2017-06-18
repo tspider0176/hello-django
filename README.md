@@ -5,4 +5,5 @@ This project contains single app named "FirstApp"
 
 ```
 python manage.py runserver 
+open http://localhost:8000/
 ```
