@@ -13,3 +13,11 @@ open http://localhost:8000/
 ```
 python manage.py migrate
 ```
+
+### Check and manage DB shema
+See http://localhost:8000/admin, and login as superuser.
+Registration of superuser can be done with below command.
+
+```
+python manage.py createsuperuser
+```
