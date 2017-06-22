@@ -4,6 +4,12 @@ This project contains single app named "FirstApp"
 ### run
 
 ```
-python manage.py runserver 
+python manage.py runserver
 open http://localhost:8000/
+```
+
+### Migration
+
+```
+python manage.py migrate
 ```
